@@ -10,18 +10,20 @@ html, body{
 
 header{
      background-image: url(../images/fundo.jpg);
+      padding: 10px;
 }
 header .container{
       display: flex;
       align-items: center;
       justify-content: space-between;
       max-width: 85%;
-      margin: auto;
-      
+      margin: auto;      
 }
+
 header nav ul{
       display: flex;
       margin: 20px;
+      
 }
 header nav li{
       list-style-type: none;
