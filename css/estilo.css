@@ -45,7 +45,7 @@ header nav ul li a:hover{
 #checkbox-menu{
       display:none
   }
-.menu:hover{
+#menu:hover{
       transform: scale(1.28);
 }
 header .container img{
@@ -172,7 +172,7 @@ main .container-main img{
 }
 #form{
       /*background-image: url(../images/fundo.jpg);*/
-      background: linear-gradient(to right, rgba(248, 162, 3, 0.39) , rgba(172, 14, 3, 0.267) );
+      background: linear-gradient(to right, rgba(255, 203, 106, 0.664) , rgb(245, 245, 245) );
       margin: 25px 500px auto;
       border: 3px solid grey;
       padding: 40px;
